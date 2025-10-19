@@ -1,4 +1,4 @@
-- 👋 Hi there, I'm @Majidied
+- 👋 Hi there, I'm Mohammed MAJIDI
 - 👀 I'm keen on Full stack development
 - 🌱 Currently diving into web development
 - 💞️ Open to collaborations on  exciting projects
