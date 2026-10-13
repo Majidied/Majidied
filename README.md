@@ -27,27 +27,31 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="50%">
+      <td align="center" valign="bottom" width="50%">
         <a href="https://www.credly.com/badges/b96f9967-fff6-416f-ad25-89806bd90c0e/public_url" target="_blank">
-          <img src="aws-certified-solutions-architect-associate.png" width="150" alt="AWS Certified Solutions Architect - Associate" />
+          <img src="aws-certified-solutions-architect-associate.png" width="145" alt="AWS Certified Solutions Architect - Associate" />
         </a>
-        <br />
+      </td>
+      <td align="center" valign="bottom" width="50%">
+        <a href="https://www.credly.com/badges/2b203ec5-b8d4-48f1-80ce-0fa2aefe6804/public_url" target="_blank">
+          <img src="aws-certified-cloud-practitioner.png" width="145" alt="AWS Certified Cloud Practitioner" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="top">
         <a href="https://www.credly.com/badges/b96f9967-fff6-416f-ad25-89806bd90c0e/public_url" target="_blank">
           <b>AWS Certified Solutions Architect – Associate</b>
         </a>
         <br />
-        <sub>Validation: SAA-C03 • Click badge to verify on Credly</sub>
+        <sub>Validation: SAA-C03 • Click badge to verify</sub>
       </td>
-      <td align="center" width="50%">
-        <a href="https://www.credly.com/badges/2b203ec5-b8d4-48f1-80ce-0fa2aefe6804/public_url" target="_blank">
-          <img src="aws-certified-cloud-practitioner.png" width="150" alt="AWS Certified Cloud Practitioner" />
-        </a>
-        <br />
+      <td align="center" valign="top">
         <a href="https://www.credly.com/badges/2b203ec5-b8d4-48f1-80ce-0fa2aefe6804/public_url" target="_blank">
           <b>AWS Certified Cloud Practitioner</b>
         </a>
         <br />
-        <sub>Validation: CLF-C02 • Click badge to verify on Credly</sub>
+        <sub>Validation: CLF-C02 • Click badge to verify</sub>
       </td>
     </tr>
     <tr>
