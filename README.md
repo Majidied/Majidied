@@ -41,7 +41,7 @@
     <tr>
       <td align="center" valign="top">
         <a href="https://www.credly.com/badges/b96f9967-fff6-416f-ad25-89806bd90c0e/public_url" target="_blank">
-          <b>AWS Certified Solutions Architect – Associate</b>
+          <small><b>AWS Certified Solutions Architect – Associate</b></small>
         </a>
         <br />
         <sub>Validation: SAA-C03 • Click badge to verify</sub>
